@@ -63,3 +63,4 @@ Exercices du PDF *OpenShift-Les-Bases-Niveau-Zero*. Chaque lien mène à l'expli
 - [Page officielle de l'examen EX180](https://www.redhat.com/en/services/training/ex180-red-hat-certified-technologist-in-openshift-exam)
 - [Documentation OpenShift](https://docs.redhat.com/en/documentation/openshift_container_platform/)
 - [Labs interactifs Red Hat](https://developers.redhat.com/learn/openshift)
+- [Tutoriel vidéo : installer RHEL 9 sur Proxmox](https://www.youtube.com/watch?v=wxYVCFPvWkQ)
